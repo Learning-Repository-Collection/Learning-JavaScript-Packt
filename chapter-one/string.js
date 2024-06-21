@@ -31,4 +31,5 @@ console.log("UPPERCASESTRING".toLowerCase());   // "uppercasestring"
 console.log("There are no spaces in the end ".trim()); // removes all the spaces at the end
 
 console.log(`string text on first line
-    string text on second line `);
+    string text on second line 
+    string text on third line`);
