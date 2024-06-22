@@ -33,3 +33,9 @@ console.log("There are no spaces in the end ".trim()); // removes all the spaces
 console.log(`string text on first line
     string text on second line 
     string text on third line`);
+
+var a = 1, b = 2;
+console.log("Sum of values is: " + (a+b) + " and multiplication is " + (a*b));
+
+// using string interpolation
+console.log(`Sum of values is: ${a+b} and multiplication is: ${a*b}`);
