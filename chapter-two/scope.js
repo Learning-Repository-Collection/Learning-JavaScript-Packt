@@ -95,3 +95,5 @@ if(foo) {
     console.log(bar);
 }
 // console.log(bar); // Reference Error
+
+
